@@ -14,5 +14,5 @@ hello baidu
 hello baidu
 hello baidu
 hello baidu
-hello baidu
+hello baidu    hot-fix test
 hello baidu
